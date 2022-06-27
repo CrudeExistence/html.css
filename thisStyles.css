@@ -25,6 +25,8 @@
     transition: color 800ms;
 }
 
+/* not actually a comment */
+
 .footer {
     position: fixed;
     left: 0;
