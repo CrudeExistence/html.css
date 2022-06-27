@@ -1,0 +1,52 @@
+.centerNav {
+    border: 1px black solid;
+    background-image: url("https://cdn.mos.cms.futurecdn.net/G2VQ2CL9j4w6Jv5z3QwjuN.jpg");
+    margin: 0 20px;
+    box-shadow: 2px 2px 0 0;
+}
+
+.Nav {
+    margin: 0 auto;
+    text-align: center;
+    /* background-color:cornflowerblue; */
+}
+
+.Nav a {
+    padding-left: 15px;
+    padding-right: 15px;
+    color:white;
+    font:bold;
+    text-shadow: 1px 1px 2px black;
+    
+}
+
+.Nav a:hover {
+    color: limegreen;
+    transition: color 800ms;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+
+.footer input {
+    right: 2px;
+    bottom: 50px;
+    position: fixed;
+}
+
+.footer ul {
+    position: fixed;
+    left: 0;
+    bottom: 1px;
+    text-align: left;
+}
+/* div h1{
+    color:aqua;
+} */
